@@ -1,0 +1,49 @@
+
+<style type="text/css">
+
+		body{
+			width: 100%
+			margin: 0%
+
+		}
+
+		form{
+			width: 80%
+			margin-right: 10%;
+			margin-left: 10%
+		}
+
+
+		h3{
+			color: blue
+			margin 2%
+		.1_div{
+			color:blue;
+		}
+	
+
+
+		div{
+			display: block;
+			width: 100%;
+			margin: 2%;
+			padding: 5%;
+			color:blue;
+		}
+
+		input:required:valid{
+			border: 2px solid green;
+		}
+
+		input:required:Invalid{
+			border: 2px solid red;
+		}
+
+		p{
+			display: inline-block;
+			width: 80%
+			margin:3%;
+			color: brown
+		}
+		</style>
+
